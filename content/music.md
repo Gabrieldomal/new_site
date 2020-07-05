@@ -1,23 +1,16 @@
 ---
-title: "Music"
+title: "Descrição dos dados."
 date: 2020-03-15T00:02:04-03:00
 draft: false
-images: 
-  - /essatb.jpg
 featuredImg: ""
 ---
 
-My father is a pianist and I started studying music at the early age of 5. When I was about 12 years old, I switched to the electric guitar and started studying Jazz. I have always been fascinated by the art of improvisation, and have an unconditional love for brazilian music. 
+Para a confecção do boletim e a análise da progressão do coronavírus no estado de Minas Gerais, foi utilizado o banco de dado disponibilizado pelo Ministério da Saude de Minas Gerais, atravez do link (http://coronavirus.saude.mg.gov.br/painel-de-monitoramento).
 
-Despite drifting away from performance, I continue to make contributions to musical comunity as a producer and as project manajer. I am currently managing projects for Guilherme Marcheto and for Pablo Contijo.
+O banco de dado informa cada caso confirmado de coronavírus, registrando o sexo, idade, município de residência, comorbidade, evolução, internação e UTI.
 
-![guitar](/essatb.jpg)
+![guitar](/dataframe-MG.png)
 
-# You can listen to me here
+# Você pode fazer o download do banco de dado no link abaixo.
 
-* [Aos pés da santa cruz - Guitar](https://www.youtube.com/watch?v=C6PnAYY_cQw)
-* [Nana (Moacir Satos)- Electric Guitar](https://www.youtube.com/watch?v=ayDjzfrrJ1s)
-* [Jornada de Música Contemporânea (Pedro Neto & Pablo Contijo)](https://www.youtube.com/watch?v=s9yjB1ktU98) 
-* [Electric Counterpoint (Steve Reich)](https://www.youtube.com/watch?v=Ho9rPRCBL5Q)
-* [Desafinado (Tom Jobim) - Guitar Solo](https://www.youtube.com/watch?v=7PMId8lGh7s)
-* [O Sacro Convivium (Messiaen) - Guitar Solo](https://www.youtube.com/watch?v=icz6mHQaGA4)
+* [Dataframe dos contaminados em Minas Gerais](http://coronavirus.saude.mg.gov.br/painel-de-monitoramento)

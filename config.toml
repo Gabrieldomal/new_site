@@ -1,7 +1,7 @@
-baseURL = "https://pedroneto.netlify.app/"
+baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "covid"
+title = "Covid-19 no Quadrilátero Ferrífero"
 theme = "hermit-master"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Pedro A. S. O. Neto"
+  name = "Gabriel S. Senra"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -36,9 +36,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Cognition. Neuroscience. Music."
+  homeSubtitle = "Um blog sobre Ciencia de dados aplicada ao coronavírus em Minas Gerais."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = "/vitoria_es_2.jpg"  # Homepage background-image URL
+  bgImg = "/mineiracao.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
@@ -69,24 +69,22 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [menu]
 
-
-
   [[menu.main]]
-    name = "About"
+    name = "Sobre mim"
     url = "about-hugo/"
     weight = 10
 
   [[menu.main]]
-    name = "Blog"
+    name = "Boletins Epidemiológicos"
     url = "posts/"
     weight = 20
 
   [[menu.main]]
-    name = "Resources"
+    name = "Análises Estatisticas"
     url = "/resources.html"
     weight = 30
 
   [[menu.main]]
-    name = "Music"
+    name = "Descrição dos dados"
     url = "music"
     weight = 50
