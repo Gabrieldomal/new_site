@@ -246,7 +246,6 @@ table {
   }
 
   .site-nav {
-    display: inline-block;
     font-size: 1.1em;
     opacity: .8;
 
@@ -495,7 +494,7 @@ p.img-404 {
 .bg-img {
   width: 100vw;
   height: 100vh;
-  opacity: .05;
+  opacity: .2;
   z-index: -1;
   position: fixed;
   top: 0;
