@@ -240,13 +240,13 @@ table {
   font-size: 1.2rem;
 
   .site-branding {
-    display: inline;
+    display: inline-block;
     margin-right: .8em;
     font-size: 1.2em;
   }
 
   .site-nav {
-    display: inline;
+    display: inline-block;
     font-size: 1.1em;
     opacity: .8;
 
@@ -424,7 +424,7 @@ p.img-404 {
   opacity: .8;
 
   a {
-    display: inline-flexbox;
+    display: block;
     text-align: center;
     margin-top: .5em;
     letter-spacing: 0.5em;
