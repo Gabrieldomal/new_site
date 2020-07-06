@@ -6,10 +6,9 @@ images:
   - /essa.jpg
 featuredImg: ""
 ---
+Sou estudante de Engenharia de Produção na Universidade Federal de Ouro Preto e entusiasta por Ciência de Dados, aqui desejo colocar em prática meus estudos de estatística, aprendizado de máquina e programação voltados para datamining.
 
-Sou estudante de Engenharia de Produção na Universidade Federal de Ouro Preto e intusiasta por Ciêcia de Dados, aqui desejo colocar em pratica meus estudos de estatística, aprendizado de maquina e programação voltados para datamining.
-
-Se você deseja um Boletim estatístico epidemiológico de qualquer região do Brasil ou alguma análise expecifica favor entrar em contato comigo no meu email.
+Se você deseja um Boletim estatístico epidemiológico de qualquer região do Brasil ou alguma análise específica favor entrar em contato comigo no meu email.
 
 Email:
 gabrielsenra2009@hotmail.com
