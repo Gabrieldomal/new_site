@@ -6,11 +6,6 @@ images:
   - https://picsum.photos/1024/768/?random
 ---
 
-I am invested in keeping open practices for scientific and technological development. You can access all my research data here.
+Aqui você pode acessar todos os recursos utilizados.
  
-* [What song is next?](posts/) [[Data]](https://github.com/pasoneto/music_order/blob/master/dados.csv)
-* [Scale steps experiment.](posts/) [[Data](//CV.pdf)]
-* [Major versus minor chords.](posts/) [[Data](/CV.pdf)]
-
-# Introduction to computational musicology 
-* [Sign up](/inscricoes.html)
+* [Banco de dados do Ministério da Saúde de Minas Gerais](posts/) [[Data]](http://coronavirus.saude.mg.gov.br/painel-de-monitoramento)

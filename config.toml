@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://covid-ufop.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Covid-19 no Quadrilátero Ferrífero"
@@ -39,7 +39,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   homeSubtitle = "Um blog sobre Ciencia de dados aplicada ao coronavírus em Minas Gerais."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   bgImg = "/mineiracao.jpg"  # Homepage background-image URL
-
+  
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
 
