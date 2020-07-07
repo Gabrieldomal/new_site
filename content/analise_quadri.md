@@ -1,20 +1,19 @@
 ---
-title: "O Quadrilátero Ferrífero tem mais casos confirmados, proporcionalmente, do que o resto de Minas Gerais?"
+title: "Proporcionalmente, o Quadrilátero Ferrífero tem mais casos confirmados do que o resto de Minas Gerais?"
 date: 2020-03-14T23:35:27-03:00
 draft: false
-images:
-  - https://picsum.photos/1024/768/?random
----
-Hipotese:
-A quantidade de pessoas confirmadas por coronavírus no Quadrilátero Ferrífero segue mesma distribuição que as pessoas confirmadas em Minas Gerais.
+---Hipótese
+:
+---Hipótese:
+A incidência do coronavírus no Quadrilátero Ferrífero segue mesma distribuição que as pessoas confirmadas em Minas Gerais.
 
 Teste:
-É possivel verificar se conseguimos descrever quantas pessoas estão sendo contaminadas no Quadrilátero, utilizando a taxa de contaminação de Minas Gerais sem o Quadrilátero.
-A população do quadrilátero foi subtraida da população de Minas para não contaminar os dados, tornando-os enviesados.
+É possível verificar se conseguimos descrever quantas pessoas estão sendo contaminadas no Quadrilátero, utilizando a taxa de contaminação de Minas Gerais sem o Quadrilátero.
+A população do quadrilátero foi subtraída da população de Minas para não contaminar os dados, tornando-os enviesados.
 
 X ~ Binomial(n,p)
 
-X = 4255 -- número de confirmados de Corona vírus no quadrilátero 
+X = 4255 -- número de confirmados de Corona vírus no quadrilátero
 ferrífero.
 
 n = 1456854 -- número da população do quadrilátero ferrífero
@@ -46,8 +45,8 @@ p-valor < 0.05 (Hipotese nula negada)
 Probabilidade de sucesso estimada: 0.0029 (Taxa de contaminação no quadrilátero)
 
 Conclusão:
-É improvavel que o evento ocorrido tenha a probabilidade de sucesso indicada, ou seja a taxa de contaminação fora de minas não consegue descrever oque acontece no Quadrilátero Ferrífero.
-Também é possivel inferir que a taxa de confirmados no Quadrilátero é superior a taxa de contaminados do restante de Minas Gerais.
+É improvável que o evento ocorrido tenha a probabilidade de sucesso indicada, ou seja a taxa de contaminação em Minas Gerais não consegue descrever o que acontece no Quadrilátero Ferrífero.
+Também é possível inferir que a taxa de confirmados no Quadrilátero é superior a taxa de contaminados do restante de Minas Gerais.
 
 
-Obs: Análise feita com os dados de infecção da população disponiveis no dia 25/06/2020.
+Obs: Análise feita com os dados disponíveis no dia 25/06/2020 pelo Ministério da Saúde de Minas Gerais.

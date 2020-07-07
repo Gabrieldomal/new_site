@@ -71,7 +71,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Sobre mim"
-    url = "about-hugo/"
+    url = "sobre-mim/"
     weight = 10
 
 
@@ -83,11 +83,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Análises Estatisticas"
-    url = "/resources.html"
+    url = "/analises.html"
     weight = 30
 
 
   [[menu.main]]
     name = "Descrição dos dados"
-    url = "music/"
+    url = "descricao/"
     weight = 50
