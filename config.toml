@@ -2,16 +2,6 @@ baseURL = "https://covid-ufop.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172044352-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-172044352-1');
-</script>
-
 title = "Covid-19 no Quadrilátero Ferrífero"
 theme = "hermit-master"
 # enableGitInfo = true
@@ -23,6 +13,17 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172044352-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-172044352-1');
+</script>
 
 [author]
   name = "Gabriel S. Senra"
