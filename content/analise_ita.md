@@ -32,13 +32,17 @@ Gráfico probabilidades de evento:
 z = -4.42
 
 fdp - P(X=2) = 2.22e-08
+
 fda - P(X >=2) = 0.999
 
 Hipótese nula = a probabilidade de sucesso de 0.021 descreve a distribuição do Quadrilátero Ferrífero.
+
 Hipótese alternativa = a probabilidade de sucesso verdadeira não é 0.021
 
 p-valor = 4.06e-08
+
 p-valor < 0.05 (Hipótese nula negada)
+
 
 Conclusão:
 É improvável que o evento ocorrido tenha a probabilidade de sucesso indicada com os dados fornecidos.
