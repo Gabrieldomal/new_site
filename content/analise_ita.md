@@ -29,6 +29,7 @@ Gráfico probabilidades de evento:
 (Quantidade de óbitos dada a população X probabilidade do evento ocorrer.)
 
 Óbitos registrados: 2
+
 z = -4.42
 
 fdp - P(X=2) = 2.22e-08
@@ -42,6 +43,7 @@ Hipótese alternativa = a probabilidade de sucesso verdadeira não é 0.021
 p-valor = 4.06e-08
 
 p-valor < 0.05 (Hipótese nula negada)
+
 
 
 Conclusão:
