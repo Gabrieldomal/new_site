@@ -1,6 +1,6 @@
 ---
 title: "Boletim da Microrregião de Itabira"
-date: 2020-06-25T00:18:58-03:00
+date: 2020-07-08T00:18:58-03:00
 draft: false
 toc: false
 images:
