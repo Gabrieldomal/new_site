@@ -1,5 +1,5 @@
 ---
-title: "Boletim da Região Metropolitana de Belo Horizonte"
+title: "Boletim do Quadrilátero Ferrífero"
 date: 2020-07-08T00:18:58-03:00
 draft: false
 toc: false
