@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Boletim Epidemiológico da Região Metropolitana de Belo Horizonte.
+Boletim Epidemiológico do Quadrilátero Ferrífero de Minas Gerais.
 
 ![boletim](/quad08_07.jpg)
 
