@@ -11,4 +11,4 @@ tags:
 
 Boletim Epidemiológico de Ouro Preto
 
-![boletim](/ouro_preto08-07.jpg)
+![boletim](/ouro_preto08_07.jpg)
