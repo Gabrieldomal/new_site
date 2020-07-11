@@ -6,7 +6,7 @@ featuredImg: ""
 ---
 Vamos comparar os gráficos de confirmados acumulado de regiões diferentes, afim de encontrar similaridades ou diferenças.
 
-![confirmados quad](/grafico_quadrilátero.png)
+![confirmados quad](/grafico_quadrilatero.png)
 Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.
 
 ![Comparação](/Comparacao.png)
