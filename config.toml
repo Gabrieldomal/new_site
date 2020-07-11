@@ -70,14 +70,14 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "Sobre mim"
-    url = "sobre-mim/"
+    name = "Serviços"
+    url = "servicos/"
     weight = 10
 
 
   [[menu.main]]
     name = "Boletins Epidemiológicos"
-    url = "posts/"
+    url = "Boletins/"
     weight = 20
 
 
