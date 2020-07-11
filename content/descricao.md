@@ -14,4 +14,4 @@ O banco de dado informa cada caso confirmado de coronavírus, registrando o sexo
 
 # Você pode fazer o download do banco de dado no link abaixo.
 
-* [Dataframe dos contaminados em Minas Gerais](http://coronavirus.saude.mg.gov.br/painel-de-monitoramento)
+* [Dataframe dos contaminados em Minas Gerais](http://coronavirus.saude.mg.gov.br/images/csv-microdados/csv_sitemas.csv)
