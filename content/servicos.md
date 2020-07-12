@@ -6,11 +6,14 @@ images:
   - /essa.jpg
 featuredImg: ""
 ---
-Aqui você pode encomendar um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo totalmente de graça. Você pode entrar em contato comigo através do email abaixo.
+
+<body>
+  <p style="color:hsl(0,100%,50%);">Aqui você pode encomendar um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo totalmente de graça. Para solicitar seu boletim entre em contato comigo através do email abaixo.</p>
+</body>
 
 Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina. Ofereço meu serviço totalmente gratuito, com o intúito compreender o impácto do vírus e ajudar o maior número de pessoas utilizando Ciência Dados.
 
-O objetivo é rastrear e interpretar os dados na região que mais te interessa.Visando extrair informações apartir de dados pré-processados, entendendo como o seu problema se comporta.
+O objetivo é rastrear e interpretar os dados na região que mais te interessa. Visando extrair informações apartir de dados pré-processados, entendendo como o seu problema se comporta.
 
 
 <h2>Além do Boletim é possivel responder as seguintes perguntas:</h2>
