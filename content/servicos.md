@@ -26,7 +26,7 @@ Como o vírus se comporta em relação ao meu estado ou país?
 
 
 <body>
-  <p style="text-decoration: underline;">
+  <p style="color:red;">
 Email:
 gabrielsenra2009@hotmail.com </p>
 </body>
