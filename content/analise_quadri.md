@@ -30,20 +30,26 @@ Grafico probabilidades de evento:
 (Quantidade de contaminados dada a população X probabilidade do evento ocorrer.)
 
 Casos confirmados registrados: 4255
+
 fdp - P(X=4255) = 5.36e-280
-fdp - P(X <=4255) = 0.999
+
+fda - P(X <=4255) = 0.999
 
 Hipótese nula = a probabilidade de sucesso de 0.0016 descreve a distribuição do Quadrilátero Ferrífero.
+
 Hipótese alternativa = a probabilidade de sucesso verdadeira não é 0.0016
 
 p-valor = 2.2e-16
+
 p-valor < 0.05 (Hipotese nula negada)
 
 95% IC (0.002833694 - 0.003009645)
+
 Probabilidade de sucesso estimada: 0.0029 (Taxa de contaminação no quadrilátero)
 
 Conclusão:
 É improvável que o evento ocorrido tenha a probabilidade de sucesso indicada, ou seja a taxa de contaminação em Minas Gerais não consegue descrever o que acontece no Quadrilátero Ferrífero.
+
 Também é possível inferir que a taxa de confirmados no Quadrilátero é superior a taxa de contaminados do restante de Minas Gerais.
 
 Obs: Análise feita com os dados disponíveis no dia 25/06/2020 pelo Ministério da Saúde de Minas Gerais.
