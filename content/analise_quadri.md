@@ -2,8 +2,6 @@
 title: "Proporcionalmente, o Quadrilátero Ferrífero tem mais casos confirmados do que o resto de Minas Gerais?"
 date: 2020-03-14T23:35:27-03:00
 draft: false
----Hipótese
-:
 ---Hipótese:
 A incidência do coronavírus no Quadrilátero Ferrífero segue mesma distribuição que as pessoas confirmadas em Minas Gerais.
 
