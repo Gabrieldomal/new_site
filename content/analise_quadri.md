@@ -48,5 +48,18 @@ Conclusão:
 É improvável que o evento ocorrido tenha a probabilidade de sucesso indicada, ou seja a taxa de contaminação em Minas Gerais não consegue descrever o que acontece no Quadrilátero Ferrífero.
 Também é possível inferir que a taxa de confirmados no Quadrilátero é superior a taxa de contaminados do restante de Minas Gerais.
 
-
 Obs: Análise feita com os dados disponíveis no dia 25/06/2020 pelo Ministério da Saúde de Minas Gerais.
+
+Também podemos ver:
+
+Confirmados no Quadrilátero Ferrrífero.
+
+![normal](/grafico_quadrilatero_confirmados.jpg)
+
+Confirmados em Minas Gerais.
+
+![normal](/grafico_minas_gerais_confirmados.jpg)
+
+Confirmados de Minas Gerais sem o Quadrilátero Ferrífero.
+
+![normal](/grafico_minas_gerais_confirmados_s_quad.jpg)
