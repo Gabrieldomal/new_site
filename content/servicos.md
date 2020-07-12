@@ -8,7 +8,7 @@ featuredImg: ""
 ---
 
 <body>
-  <p style="text-decoration: underline;" style="color:hsl(232, 75%, 62%);">Aqui você pode encomendar um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo totalmente de graça. Para solicitar seu boletim entre em contato comigo através do email abaixo.</p>
+  <p style="text-decoration: underline; color:hsl(232, 75%, 62%);">Aqui você pode encomendar um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo totalmente de graça. Para solicitar seu boletim entre em contato comigo através do email abaixo.</p>
 </body>
 
 Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina. Ofereço meu serviço totalmente gratuito, com o intúito compreender o impácto do vírus e ajudar o maior número de pessoas utilizando Ciência Dados.
