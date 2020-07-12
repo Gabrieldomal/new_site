@@ -13,7 +13,7 @@ Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de
 O objetivo é rastrear e interpretar os dados na região que mais te interessa.Visando extrair informações apartir de dados pré-processados, entendendo como o seu problema se comporta.
 
 
-Além do Boletim é possivel responder as seguintes perguntas:
+# Além do Boletim é possivel responder as seguintes perguntas:
 
 As pessoas dessa região tem maior taxa de contaminação ou letalidade do que seus vizinhos?
 
