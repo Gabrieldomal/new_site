@@ -58,12 +58,8 @@ Também podemos ver:
 
 Confirmados no Quadrilátero Ferrrífero.
 
-![normal](/grafico_quadrilatero_confirmados.jpg)
+![normal](/grafico_quadrilatero.png)
 
-Confirmados em Minas Gerais.
+Confirmados em Minas Gerais e em Minas Gerais sem o Quadrilátero.
 
-![normal](/grafico_minas_gerais_confirmados.jpg)
-
-Confirmados de Minas Gerais sem o Quadrilátero Ferrífero.
-
-![normal](/grafico_minas_gerais_confirmados_s_quad.jpg)
+![normal](/Comparacao.png)
