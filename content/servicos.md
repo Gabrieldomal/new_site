@@ -9,7 +9,7 @@ featuredImg: ""
 
 Se você deseja um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo, você pode entrar em contato comigo através do email.
 
-Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina sem nenhum compromisso ou preço.
+Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina. Ofereço meu serviço totalmente gratuito, com o intúito compreender o impácto do vírus e ajudar o maior número de pessoas utilizando Ciência Dados.
 
 Nosso objetivo é ajudar no rastreamento e na interpretação dos dados na região que mais te interessa. O trabalho é 100% voluntário buscando extrair informação apartir dos dados pré-processados, procurar, também, entender melhor como o seu problema se comporta.
 
