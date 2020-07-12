@@ -5,6 +5,8 @@ draft: false
 images: 
   - /essa.jpg
 featuredImg: ""
+---
+
 Se você deseja um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo, você pode entrar em contato comigo através do email.
 Aqui temos pessoas entusiastas em mineração de dados, com vontade de colocar em prática nossos conhecimentos de estatística, computação e aprendizado de máquina sem nenhum compromisso ou preço.
 
