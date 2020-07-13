@@ -13,18 +13,18 @@ X ~ Binomial(n,p)
 
 X = 12 -- número de óbitos de Corona vírus na Microrregião de Ouro Preto.
 
-n = 1095 -- número da população da Microrregião de Ouro Preto.
+n = 1025 -- número da população da Microrregião de Ouro Preto.
 
 p = 0.017 -- probabilidade de sucesso (letalidade no Quadrilátero sem a microrregião de Ouro Preto)
 
-X ~ Binomial(1095, 0.017)
+X ~ Binomial(1025, 0.017)
 
 mean = 17
 
 SD = 4.13
 
 Grafico probabilidades de evento:
-![normal](/grafico_site_op.jpg)
+![normal](/grafico_analise_op.png)
 
 (Quantidade de óbitos dada a população de contaminados X probabilidade do evento ocorrer.)
 
