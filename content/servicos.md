@@ -31,4 +31,4 @@ Email:
 gabrielsenra2009@hotmail.com</p>
 </body>
 
-* [Clique aqui para ver o boletim de Ouro Preto.](https://covid-ufop.netlify.app/boletins/boletim_op_08-07/)
+[Clique aqui para ver o boletim de Ouro Preto.](https://covid-ufop.netlify.app/boletins/boletim_op_08-07/)
