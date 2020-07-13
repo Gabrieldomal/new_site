@@ -11,7 +11,7 @@ featuredImg: ""
   <p style="text-decoration: underline;">Encomende um Boletim estatístico epidemiológico de qualquer região do Brasil e o do mundo totalmente de graça. Para solicitar seu boletim entre em contato comigo através do email abaixo.</p>
 </body>
 
-Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina. Ofereço meu serviço totalmente gratuito, com o intúito compreender o impácto do vírus e ajudar o maior número de pessoas utilizando Ciência Dados.
+Sou estudante de engenharia e entusiasta em mineração de dados, com vontade de colocar em prática meu conhecimento em estatística, computação e aprendizado de máquina. Ofereço meu serviço totalmente gratuito, com o intuito compreender o impacto do vírus e ajudar o maior número de pessoas utilizando Ciência de Dados.
 
 O objetivo é rastrear e interpretar os dados na região que mais te interessa. Visando extrair informações apartir de dados pré-processados, entendendo como o seu problema se comporta.
 
@@ -23,7 +23,7 @@ As pessoas dessa região tem maior taxa de contaminação ou letalidade do que s
 Temos indícios de falso-positivo ou falso-negativo na minha região?
 
 Como o vírus se comporta em relação ao meu estado ou país?
-
+<br>
 
 <body>
   <p style="text-decoration: underline;">
