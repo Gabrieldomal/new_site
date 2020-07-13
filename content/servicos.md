@@ -23,12 +23,9 @@ As pessoas dessa região tem maior taxa de contaminação ou letalidade do que s
 Temos indícios de falso-positivo ou falso-negativo na minha região?
 
 Como o vírus se comporta em r elação ao meu estado ou país?
-<br><br>
 
 <body>
   <p style="text-decoration: underline;">
 Email:
 gabrielsenra2009@hotmail.com</p>
 </body>
-
-[Clique aqui para ver o boletim de Ouro Preto.](https://covid-ufop.netlify.app/boletins/boletim_op_08-07/)
