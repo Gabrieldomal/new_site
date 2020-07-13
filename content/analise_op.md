@@ -28,15 +28,15 @@ Grafico probabilidades de evento:
 
 (Quantidade de óbitos dada a população de contaminados X probabilidade do evento ocorrer.)
 
-Casos de óbito registrados: 12
-fdp - P(X=12) = 0.04
+ÓbitoS registrados: 12<br>
+fdp - P(X=12) = 0.04<br>
 fda - P(X >=12) = 0.88
 
-Hipótese nula = a probabilidade de sucesso de 0.017 descreve a distribuição do Quadrilátero Ferrífero.
+Hipótese nula = a probabilidade de sucesso de 0.017 descreve a distribuição do Quadrilátero Ferrífero.<br>
 Hipótese alternativa = a probabilidade de sucesso verdadeira não é 0.0017
 
-p-valor = 0.2258
-p-valor > 0.05 (Hipótese nula comprovada)
+p-valor = 0.2258<br>
+p-valor > 0.05 (Hipótese nula comprovada)<br><br>
 
 Conclusão:
 É provavel que o evento ocorrido tenha a probabilidade de sucesso indicada com os dados fornecidos.
