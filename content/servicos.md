@@ -31,5 +31,4 @@ Email:
 gabrielsenra2009@hotmail.com</p>
 </body>
 
-Veja o exemplo de um boletim da Microrregião de Ouro Preto: 
-* [Boletim dos contaminados em Ouro Preto](https://covid-ufop.netlify.app/boletins/boletim_op_08-07/)
+* [Veja o exemplo de um boletim da Microrregião de Ouro Preto:](https://covid-ufop.netlify.app/boletins/boletim_op_08-07/)
