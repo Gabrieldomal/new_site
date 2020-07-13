@@ -22,8 +22,8 @@ As pessoas dessa região tem maior taxa de contaminação ou letalidade do que s
 
 Temos indícios de falso-positivo ou falso-negativo na minha região?
 
-Como o vírus se comporta em relação ao meu estado ou país?
-<br>
+Como o vírus se comporta em r elação ao meu estado ou país?
+<br><br>
 
 <body>
   <p style="text-decoration: underline;">
