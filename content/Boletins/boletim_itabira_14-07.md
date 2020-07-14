@@ -11,5 +11,5 @@ tags:
 
 Boletim Epidemiológico da Microrregião de Itabira.
 
-![boletim](/Itabira_14-07.jpg)
+![boletim](/boletim_itabira_14_07.jpg)
 
