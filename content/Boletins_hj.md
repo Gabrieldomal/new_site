@@ -12,4 +12,7 @@ featuredImg: ""
 - [Microrregião de Itabira](/boletins/boletim_itabira_14-07/)
 
 
-[Boletins antigos](/boletins/)
+[Boletins antigos](/boletins/)<br>
+
+Atualizações de segunda a sexta.<br>
+Ultimo update: 14/07/2020
