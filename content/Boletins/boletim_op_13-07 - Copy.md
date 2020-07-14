@@ -1,5 +1,5 @@
 ---
-title: "Boletim Ouro Preto"
+title: "Boletim da Microrregião de Ouro Preto"
 date: 2020-07-13T00:18:58-03:00
 draft: false
 toc: false
