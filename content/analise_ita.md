@@ -19,6 +19,7 @@ p = 0.021 -- probabilidade de sucesso (letalidade no Quadrilátero sem a microrr
 
 X ~ Binomial(1095, 0.021)
 
+
 mean = 23
 
 SD = 4.74
@@ -32,7 +33,7 @@ Gráfico probabilidades de evento:
 
 z = -4.42
 
-fdp - P(X=2) = 2.22e-08
+fdp - P(X=2) = 2.22e-08<>
 
 fda - P(X >=2) = 0.999
 
