@@ -11,9 +11,10 @@ Aqui é possivel perceber que houve uma redução na velocidade de crescimento d
 
 ![Itabira](/Itabira_grafico.png)
 
-Vemos esse efeito mais acentuado em regiões mineradoras, onde houveram fortes indícios de casos falso positivo. [Veja aqui](https://covid-ufop.netlify.app/analise_ita/) o estudo mais aprofundado sobre essa anomalia na região.
+Vemos esse efeito mais acentuado em regiões mineradoras como a de Itabira, onde houveram fortes indícios de casos falso positivo. [Veja aqui](https://covid-ufop.netlify.app/analise_ita/) o estudo mais aprofundado sobre essa anomalia na região.
 
 ![Comparação](/Comparacao_mg.png)
+![Comparação2](/Comparacao_2.png)
 
 Observando este gráfico podemos perceber que mesmo sem a interferencia do Quadrilátero Ferrífero, Minas Gerais segue uma distribuição de casos muito similar ao da região mineradora. O que pode indicar que não é um evento muito incomum, dado que não se diferenciou muito do restante do seu estado.
 
