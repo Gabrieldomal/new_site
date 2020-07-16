@@ -19,7 +19,7 @@ Observando este gráfico podemos perceber que mesmo sem a interferencia do Quadr
 
 
 ![Brasil](/Brasil.png)
-Por fim vemos, como o crescimento dos confirmados no Braisl é diferente da distribuição dos casos em Minas Gerais, vale ressaltar que o território mineiro possui uma fração muito pequena da quantidade de confirmados no Brasil.<br>
+Por fim vemos, como o crescimento dos confirmados no Braisl é diferente da distribuição dos casos em Minas Gerais, vale ressaltar que o território mineiro possui uma fração muito pequena da quantidade de confirmados no Brasil.<br><br>
 Estudos ainda estão em andamento e estou sempre aberto a críticas no meu email.
 
 # Você pode fazer o download do banco de dado no link abaixo.
