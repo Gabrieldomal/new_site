@@ -28,7 +28,7 @@ Grafico probabilidades de evento:
 
 (Quantidade de óbitos dada a população de contaminados X probabilidade do evento ocorrer.)
 
-ÓbitoS registrados: 12<br>
+Óbitos registrados: 12<br>
 fdp - P(X=12) = 0.04<br>
 fda - P(X >=12) = 0.88
 
