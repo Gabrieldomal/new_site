@@ -4,19 +4,18 @@ date: 2020-03-15T00:02:04-03:00
 draft: false
 featuredImg: ""
 ---
-Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemos algumas coisas que chamam a atenção.
+Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemos algumas coisas que chamam a atenção.<br>
 
 ![confirmados quad](/Quadri_atual.png)
-Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.
+Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.<br>
 
 ![Itabira](/Itabira_grafico.png)
+Vemos esse efeito mais acentuado em regiões mineradoras como a de Itabira, onde houveram fortes indícios de casos falso positivo. [Veja aqui](https://covid-ufop.netlify.app/analise_ita/) o estudo mais aprofundado sobre essa anomalia na região.<br>
 
-Vemos esse efeito mais acentuado em regiões mineradoras como a de Itabira, onde houveram fortes indícios de casos falso positivo. [Veja aqui](https://covid-ufop.netlify.app/analise_ita/) o estudo mais aprofundado sobre essa anomalia na região.
-
-![Comparação](/Comparacao_mg.png)
+![Comparação](/Comparacao_mg.png)<br>
 ![Comparação2](/Comparacao_2.png)
 
-Observando este gráfico podemos perceber que mesmo sem a interferencia do Quadrilátero Ferrífero, Minas Gerais segue uma distribuição de casos muito similar ao da região mineradora. O que pode indicar que não é um evento muito incomum, dado que não se diferenciou muito do restante do seu estado.
+Observando este gráfico podemos perceber que mesmo sem a interferencia do Quadrilátero Ferrífero, Minas Gerais segue uma distribuição de casos muito similar ao da região mineradora. O que pode indicar que não é um evento muito incomum, dado que não se diferenciou muito do restante do seu estado.<br>
 
 
 ![Brasil](/Brasil.png)
