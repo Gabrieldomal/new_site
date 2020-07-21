@@ -5,7 +5,7 @@ draft: false
 featuredImg: ""
 ---
 
-Para a confecção do boletim e a análise da progressão do coronavírus no estado de Minas Gerais, foi utilizado o banco de dado disponibilizado pelo Ministério da Saúde de Minas Gerais, através do link (http://coronavirus.saude.mg.gov.br/painel-de-monitoramento).
+Para a confecção do boletim e a análise da progressão do coronavírus no estado de Minas Gerais, foi utilizado o banco de dado disponibilizado pelo Secretaria do Estado de Saúde de Minas Gerais, através do link (http://coronavirus.saude.mg.gov.br/painel-de-monitoramento).
 
 O banco de dado informa cada caso confirmado de coronavírus, registrando o sexo, idade, município de residência, comorbidade, evolução, internação e UTI.
 
