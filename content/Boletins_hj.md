@@ -7,12 +7,12 @@ featuredImg: ""
 
 ## Hoje
 
-- [Quadrilátero ferrífero](/boletins/boletim_quadri_16-07/)
-- [Microrregião de Ouro Preto](/boletins/boletim_op_16-07/)
-- [Microrregião de Itabira](/boletins/boletim_itabira_16-07/)
+- [Quadrilátero ferrífero](/boletins/boletim_quadri_21-07/)
+- [Microrregião de Ouro Preto](/boletins/boletim_op_21-07/)
+- [Microrregião de Itabira](/boletins/boletim_itabira_21-07/)
 
 
 [Boletins antigos](/boletins/)<br>
 
 Atualizações de segunda a sexta.<br>
-Ultimo update: 16/07/2020
+Ultimo update: 21/07/2020
