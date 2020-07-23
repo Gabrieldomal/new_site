@@ -12,7 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
-1
+
 
 [author]
   name = "Gabriel S. Senra"
@@ -92,4 +92,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "Descrição dos dados"
     url = "descricao/"
     weight = 50
-    1
+    
