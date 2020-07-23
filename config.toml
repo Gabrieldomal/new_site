@@ -26,6 +26,23 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Categories are disabled by default.
 
 [params]
+  
+  languages:
+  DefaultContentLanguage: en
+  en:
+    baseURL: https://covid-ufop.netlify.app
+    languageName: English
+    title: In English
+    weight: 2
+  pt:
+    baseURL: https://covid-ufop.netlify.app.br
+    languageName: Portugues
+    title: Em Portugues
+    weight: 1
+  params:
+    navigation:
+      help: Help
+  
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -92,18 +109,3 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "descricao/"
     weight = 50
   
-  languages:
-  DefaultContentLanguage: en
-  en:
-    baseURL: https://covid-ufop.netlify.app
-    languageName: English
-    title: In English
-    weight: 2
-  pt:
-    baseURL: https://covid-ufop.netlify.app.br
-    languageName: Portugues
-    title: Em Portugues
-    weight: 1
-  params:
-    navigation:
-      help: Help
