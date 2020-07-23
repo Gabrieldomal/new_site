@@ -3,22 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Covid-19 no Quadrilátero Ferrífero"
 theme = "hermit-master"
-DefaultContentLanguage: en
-  en:
-    baseURL: https://covid-ufop.netlify.app
-    languageName: English
-    title: In English
-    weight: 2
-  pt:
-    baseURL: https://covid-ufop.netlify.app.br
-    languageName: Portugues
-    title: Em Portugues
-    weight: 1
-  params:
-    navigation:
-      help: Help
-  
-# enableGitInfo = true
+#enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -40,7 +25,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   tag = "tags"
   # Categories are disabled by default.
 
-[params
+[params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -106,4 +91,15 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "Descrição dos dados"
     url = "descricao/"
     weight = 50
-  
+
+[languages]
+  [languages.en]
+    baseURL = "https://covid-ufop.netlify.app"
+    languageName = "English"
+    title = "In English"
+    weight = 2
+  [languages.pt]
+    baseURL = "https://covid-ufop.netlify.app.pt"
+    languageName = "Portugues"
+    title = "Em Portugues"
+    weight = 1
