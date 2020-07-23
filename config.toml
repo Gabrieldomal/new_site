@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Covid-19 no Quadrilátero Ferrífero"
 theme = "hermit-master"
-#enableGitInfo = true
+# enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -12,6 +12,18 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+
+[languages]
+  [languages.en]
+    baseURL = "https://covid-ufop.netlify.app"
+    languageName = "English"
+    title = "In English"
+    weight = 2
+  [languages.pt]
+    baseURL = "https://covid-ufop.netlify.app.pt"
+    languageName = "Portugues"
+    title = "Em Portugues"
+    weight = 1
 
 [author]
   name = "Gabriel S. Senra"
@@ -91,15 +103,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "Descrição dos dados"
     url = "descricao/"
     weight = 50
-
-[languages]
-  [languages.en]
-    baseURL = "https://covid-ufop.netlify.app"
-    languageName = "English"
-    title = "In English"
-    weight = 2
-  [languages.pt]
-    baseURL = "https://covid-ufop.netlify.app.pt"
-    languageName = "Portugues"
-    title = "Em Portugues"
-    weight = 1
+    1
