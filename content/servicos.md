@@ -30,4 +30,4 @@ Email:
 gabrielsenra2009@hotmail.com</p>
 </body>
 
-* [Veja um exemplo do boletim de Ouro Preto](https://covid-ufop.netlify.app/boletins/boletim_op_22-07/)
+* [Veja um exemplo do boletim de Ouro Preto](https://covid-ufop.netlify.app/boletins/boletim_op_23-07/)
