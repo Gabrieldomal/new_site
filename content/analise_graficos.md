@@ -4,6 +4,8 @@ date: 2020-03-15T00:02:04-03:00
 draft: false
 featuredImg: ""
 ---
+Todos os gráficos foram gerados do dia 15/03/20 até o 15/06/20.
+
 Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemos algumas coisas que chamam a atenção.<br>
 
 ![confirmados quad](/Quadri_atual.png)
