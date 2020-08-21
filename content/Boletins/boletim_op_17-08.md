@@ -1,6 +1,6 @@
 ---
 title: "Boletim da Microrregião de Ouro Preto"
-date: 2020-08-12T00:18:58-03:00
+date: 2020-08-17T00:18:58-03:00
 draft: false
 toc: false
 images:
