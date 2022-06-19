@@ -8,6 +8,8 @@ Todos os gráficos foram gerados até o dia 15/06/20.
 
 Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemos algumas coisas que chamam a atenção.<br>
 
+Teste, estou aqui !!
+
 ![confirmados quad](/Quadri_atual.png)
 Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.<br>
 
