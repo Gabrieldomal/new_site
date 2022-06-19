@@ -10,7 +10,9 @@ Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemo
 
 Teste, estou aqui !!
 
+<iframe title="Dashboard UFOP3" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=21809ec8-a8d5-4c41-8751-537fc54c4e93&autoAuth=true&ctid=2f70f794-5dc2-4322-8320-a987833298e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 ![confirmados quad](/Quadri_atual.png)
+
 Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.<br>
 
 ![Itabira](/Itabira_grafico.png)
