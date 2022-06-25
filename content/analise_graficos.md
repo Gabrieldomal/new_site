@@ -10,7 +10,7 @@ Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemo
 
 Teste, estou aqui !!
 
-<iframe title="Dashboard UFOP3" width="1140" height="700" src="https://app.powerbi.com/reportEmbed?reportId=21809ec8-a8d5-4c41-8751-537fc54c4e93&autoAuth=true&ctid=2f70f794-5dc2-4322-8320-a987833298e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard UFOP3 - Departamentos" width="1140" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiYWUyZTU2OTItNTk5NC00NjVkLWFkNTAtZTI5ODQyZjNhODg0IiwidCI6IjY5NjVkNDMyLWU2OGItNDExMy1iMTI1LTdiNjE1ZGU2OGRlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ![confirmados quad](/Quadri_atual.png)
 
