@@ -10,7 +10,7 @@ UFOP em Números !
 Borrachometro - Descubra qual a disciplina mais garrada do seu curso.
 <iframe title="UFOP Dashboard Disciplinas - Departamentos" width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTBmMWUxZDktN2RjMy00ZTNhLTk1MjEtNDA2N2IyOGUwNTcxIiwidCI6IjY5NjVkNDMyLWU2OGItNDExMy1iMTI1LTdiNjE1ZGU2OGRlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-- DEMAT se descata com uma média de 40% de pau por disciplina !
+- DEMAT se descata com uma média de 40% de reprovação por disciplina;
 
 - DELET e o DEART possuem 11,5% de trancamento por disciplina, maiores indíces da UFOP.
 
