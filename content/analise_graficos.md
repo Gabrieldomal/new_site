@@ -8,10 +8,6 @@ Todos os gráficos foram gerados até o dia 15/06/20.
 
 Ao comparar o número de confirmados ao longo do tempo com outras regiões, vemos algumas coisas que chamam a atenção.<br>
 
-Teste, estou aqui mudou!!
-
-<iframe title="Dashboard UFOP3 - Departamentos" width="1140" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiYWUyZTU2OTItNTk5NC00NjVkLWFkNTAtZTI5ODQyZjNhODg0IiwidCI6IjY5NjVkNDMyLWU2OGItNDExMy1iMTI1LTdiNjE1ZGU2OGRlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ![confirmados quad](/Quadri_atual.png)
 
 Aqui é possivel perceber que houve uma redução na velocidade de crescimento do número de contaminados totais.<br>
