@@ -16,9 +16,3 @@ Borrachometro - Descubra qual a disciplina mais garrada do seu curso.
 - Na Escola de Medicina vemos incríveis 96,6% de aprovação por disciplina, possuindo os departamentos com menores indices de reprovação e trancamento.
 
 <iframe title="UFOP Dashboard Docentes - Docentes" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTlmZmU2MzItN2VkOC00ZDEzLWJkMjAtMWQ2ZGMwZjg1ODc4IiwidCI6IjY5NjVkNDMyLWU2OGItNDExMy1iMTI1LTdiNjE1ZGU2OGRlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-- 
-
-# Você pode fazer o download do banco de dado no link abaixo.
-
-* [Dataframe dos contaminados em Minas Gerais](http://coronavirus.saude.mg.gov.br/images/csv-microdados/csv_sitemas.csv)
